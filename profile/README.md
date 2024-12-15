@@ -39,3 +39,5 @@
 
 </body>
 </html>
+
+![](https://komarev.com/ghpvc/?username=Yandere-Simulator-High-School-APK&abbreviated=true)
